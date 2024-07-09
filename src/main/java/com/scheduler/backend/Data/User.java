@@ -1,2 +1,4 @@
-package com.scheduler.backend.Data;public class User {
+package com.scheduler.backend.Data;
+
+public class User {
 }
